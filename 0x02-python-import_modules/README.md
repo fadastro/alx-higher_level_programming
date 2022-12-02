@@ -1,7 +1,7 @@
 # 0x02. PYTHON - IMPORT & MODULES - HOLBERTON SCHOOL :robot:
 
 ## Description :speech_balloon:
-Higher-level programming projects for Holberton School Year 1
+Higher-level programming projects for ALX School Year 1
 
 ## Requeriments :bookmark_tabs:
 
@@ -32,13 +32,11 @@ Higher-level programming projects for Holberton School Year 1
 Git clone the repository:
 
 ```
-git clone https://github.com/cbarros7/holbertonschool-higher_level_programming.git
+git clone https://github.com/fadastro/alx-higher_level_programming.git
 ```
 
 ## Bugs :loudspeaker:
 No known bugs.
 
 
-## Authors :black_nib:
-**Carlos Barros** [Github](https://github.com/cbarros7)
-                  [LinkdIn](https://www.linkedin.com/in/carlosbarros7/)
+
